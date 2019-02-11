@@ -1,0 +1,10 @@
+:root {
+  --infoblue: #33b5e5;
+  --infoblueDark: #2e9ac2;
+  --placeholderGray: rgb(145, 145, 145);
+  --infoblueTrans: #33b6e515;
+}
+
+#size-sup {
+  color: var(--infoblue);
+}
